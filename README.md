@@ -1,10 +1,7 @@
 🔧 Predictive Maintenance with NASA C-MAPSS Dataset
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Python](https://img.shields.io/badge/python-3.11-blue.svg)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3-green.svg)  
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)  
+![Python](https://img.shields.io/badge/python-3.11-blue.svg) ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg) ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3-green.svg) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)  
 
 
 This project implements predictive maintenance using the NASA C-MAPSS Turbofan Engine Degradation Datasets (FD001–FD004).
