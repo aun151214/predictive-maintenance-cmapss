@@ -1,0 +1,35 @@
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Data files
+data/processed/
+*.pkl
+*.csv
+*.npz
+
+# Models
+models/
+*.h5
+*.keras
+*.ckpt
+
+# Results & reports
+results/*.pdf
+results/*.md
+results/*.png
+results/*.csv
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
